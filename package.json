@@ -1,0 +1,14 @@
+{
+    "name": "granulejs",
+    "version": "0.0.1",
+    "description": "A development framework based on GOP(granule oriented programming) implements in js.",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "run test"
+    },
+    "author": "illyrix <illyrix@outlook.com>",
+    "license": "MIT",
+    "dependencies": {
+        "colors": "^1.1.2"
+    }
+}
