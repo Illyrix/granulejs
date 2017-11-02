@@ -1,13 +1,13 @@
-## Granulejs
+# Granulejs
 A tool for developing software in a GOP(granule oriented programming) way
 
-### Installation
+## Installation
 Install it via npm (or yarn)
 ```
 npm install
 ```
 
-### Usage
+## Usage
 ```javascript
 const Granule = require('granulejs')
 
